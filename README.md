@@ -1,7 +1,8 @@
 # Slabs-as-pressure-probes
 
-The 15 numerical subduction models developed for/analyzed in Holt et al. (in review at GJI). All models were ran with ASPECT v2.4.0 (Bangerth et al., 2023; Heister et al., 2017; Kronbichler et al., 2012).
-For each slab-asthenosphere viscosity contrast, there are 3 cases: both plates "free", a "fixed" subducting plate (SP), a "fixed" overriding plate (OP).
+The subduction models developed for/analyzed in Holt et al. (in review at GJI) and ran with ASPECT v2.4.0 (Bangerth et al., 2023; Heister et al., 2017; Kronbichler et al., 2012).  
+
+There are 15 models. For each slab-asthenosphere viscosity contrast, there are 3 cases: both plates "free", a "fixed" subducting plate (SP), a "fixed" overriding plate (OP).
 
 **Models with slab-asthenosphere contrast = 50**  
 2D_compositional_subd_lower-res_new_50plates.prm  
